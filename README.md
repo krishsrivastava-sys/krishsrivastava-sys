@@ -16,7 +16,7 @@ I'm a Software Engineering student focused on **Scalable Distributed Systems**, 
 
 | Domain | Technologies |
 | :--- | :--- |
-| **Languages** | C / C++, Go, Python, Java |
+| **Languages** | C / C++, ASM (x86_64), Python, Java |
 | **Backend & Storage** | PostgreSQL, Redis, REST, gRPC |
 | **Infrastructure** | Linux, Docker, Git, CI/CD pipelines |
 | **Concepts** | Distributed Systems, Data Structures & Algorithms, Concurrency |
@@ -33,6 +33,6 @@ I'm a Software Engineering student focused on **Scalable Distributed Systems**, 
 
 ### 📬 Connect With Me
 
-* **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-* **Email:** [your.email@example.com](mailto:your.email@example.com)
+* **LinkedIn:** [linkedin.com/in/yourprofile]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/krish-srivastava-dev/))
+* **Email:** [your.email@example.com](mailto:krishsrivastava2006@gmail.com)
 * **Portfolio/Website:** [yourportfolio.dev](https://yourportfolio.dev)
